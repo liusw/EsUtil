@@ -1,0 +1,26 @@
+17:29:39.155 [main] WARN  o.h.c.e.AbstractEhcacheRegionFactory - HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.spi.UpdateTimestampsCache]; using defaults.
+17:29:39.184 [main] WARN  o.h.c.e.AbstractEhcacheRegionFactory - HHH020003: Could not find a specific ehcache configuration for cache named [org.hibernate.cache.internal.StandardQueryCache]; using defaults.
+17:29:40.406 [main] WARN  o.h.c.e.AbstractEhcacheRegionFactory - HHH020003: Could not find a specific ehcache configuration for cache named [com.tianyu.jty.system.entity.Dict]; using defaults.
+17:29:40.424 [main] WARN  o.h.c.e.AbstractEhcacheRegionFactory - HHH020003: Could not find a specific ehcache configuration for cache named [com.tianyu.jty.system.entity.Permission]; using defaults.
+17:29:40.431 [main] WARN  o.h.c.e.AbstractEhcacheRegionFactory - HHH020003: Could not find a specific ehcache configuration for cache named [com.tianyu.jty.system.entity.AreaInfo]; using defaults.
+17:29:40.436 [main] WARN  o.h.c.e.AbstractEhcacheRegionFactory - HHH020003: Could not find a specific ehcache configuration for cache named [com.tianyu.jty.system.entity.Role]; using defaults.
+17:29:40.448 [main] WARN  o.h.c.e.AbstractEhcacheRegionFactory - HHH020003: Could not find a specific ehcache configuration for cache named [com.tianyu.jty.system.entity.Organization]; using defaults.
+17:30:13.032 [qtp1069383362-57] INFO  c.t.jty.system.utils.SessionListener - session：142liih05g0ty1sttdz2wfjl01 add
+17:30:27.524 [qtp1069383362-51] INFO  c.t.jty.system.dao.BlogSearchDao - [search]:{
+  "query" : {
+    "fuzzy" : {
+      "content" : {
+        "value" : "大话数据结构——树"
+      }
+    }
+  }
+}
+17:30:27.524 [qtp1069383362-55] INFO  c.t.jty.system.dao.BlogSearchDao - [search]:{
+  "query" : {
+    "fuzzy" : {
+      "content" : {
+        "value" : "大话数据结构——树"
+      }
+    }
+  }
+}
