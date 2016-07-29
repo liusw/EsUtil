@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jty:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="jty-1.0.war">
+      <element id="artifact" artifact-name="jty:war exploded" />
+    </root>
+  </artifact>
+</component>
